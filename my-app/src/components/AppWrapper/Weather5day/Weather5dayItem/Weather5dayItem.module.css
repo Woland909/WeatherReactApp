@@ -1,0 +1,17 @@
+.weather {
+    display: flex;
+    align-items: center;
+    list-style: none;
+    margin: 0;
+    padding: 10px;
+}
+.date{
+    font-size: 15px;
+    max-width: 100px;
+}
+.weatherImg {
+    max-width: 40px;
+}
+.item {
+    padding: 0 10px;
+}

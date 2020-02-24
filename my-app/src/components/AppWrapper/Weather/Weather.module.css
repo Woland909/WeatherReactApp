@@ -1,0 +1,11 @@
+.weather {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.weatherNow {
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

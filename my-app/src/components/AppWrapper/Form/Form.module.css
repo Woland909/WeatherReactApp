@@ -1,0 +1,24 @@
+.button {
+    margin-top: 20px;
+    cursor: pointer;
+    min-width: 150px;
+    padding: 10px 5px;
+    text-transform: uppercase;
+    vertical-align: middle;
+    background: linear-gradient(to right top, #ff2f55, #d61c6e, #a22579, #6a2b74, #342961,#021f44);
+    border: none;
+    color: #ffffff;
+    font-weight: 600;
+    border-radius: 5px;
+}
+.get5dayTxt {
+    margin-top: 75px;
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-bottom: 0.83em;
+}
+.formDay, .formCity {
+    width: 150px;
+    height: 30px;
+    box-shadow:  0 0 20px rgba(0,0,0,1);
+}

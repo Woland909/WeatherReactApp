@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  color:white;
+  font-weight: 500;
+  background: linear-gradient(to right top, #ff2f55, #d61c6e, #a22579, #6a2b74, #342961,#021f44);
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  display: flex;
+  justify-content: center;
+}
